@@ -1,0 +1,9 @@
+### BEHAVIOUR200 ###
+ARCHIVE/
+data/
+figures/*.pptx
+manuscript/
+RT_200objects/
+results/stats*
+*pptx
+*.DS_Store
